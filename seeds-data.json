@@ -7,12 +7,20 @@
       "name": "Tomatoes",
       "varieties": [
         {
-          "name": "Cherokee Purple",
-          "description": "Heirloom beefsteak, rich smoky flavor, great for slicing"
+          "name": "Summer Dance Hybrid",
+          "description": "Disease-resistant slicer, productive, good flavor"
         },
         {
-          "name": "Sun Gold",
-          "description": "Sweet cherry tomato, prolific producer, container-friendly"
+          "name": "Amish Gold Slicer",
+          "description": "Heirloom beefsteak, golden-orange fruit, sweet mild flavor"
+        },
+        {
+          "name": "Moonglow",
+          "description": "Heirloom, bright orange, sweet and fruity"
+        },
+        {
+          "name": "Mexican Midget",
+          "description": "Tiny cherry tomato, prolific, perfect for containers"
         }
       ]
     },
