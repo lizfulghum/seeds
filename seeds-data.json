@@ -1,0 +1,50 @@
+{
+  "title": "Liz's 2026 Seed Share",
+  "description": "Fresh-started seeds available for friends. Updated as varieties are planted.",
+  "lastUpdated": "2026-03-01",
+  "categories": [
+    {
+      "name": "Tomatoes",
+      "varieties": [
+        {
+          "name": "Cherokee Purple",
+          "description": "Heirloom beefsteak, rich smoky flavor, great for slicing"
+        },
+        {
+          "name": "Sun Gold",
+          "description": "Sweet cherry tomato, prolific producer, container-friendly"
+        }
+      ]
+    },
+    {
+      "name": "Peppers",
+      "varieties": [
+        {
+          "name": "Santaka",
+          "description": "Hot Japanese chili, 40,000-50,000 Scoville, excellent dried"
+        },
+        {
+          "name": "Sweet Stuff Hybrid",
+          "description": "Sweet bell pepper, no heat, great for snacking"
+        },
+        {
+          "name": "Rooster Spur",
+          "description": "Hot heirloom cayenne type, 30,000-50,000 Scoville, productive"
+        },
+        {
+          "name": "TAM Jalapeño",
+          "description": "Mild jalapeño, 1,000-3,500 Scoville, classic flavor with less heat"
+        }
+      ]
+    },
+    {
+      "name": "Herbs",
+      "varieties": [
+        {
+          "name": "Genovese Basil",
+          "description": "Classic Italian basil, perfect for pesto"
+        }
+      ]
+    }
+  ]
+}
