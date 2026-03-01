@@ -56,6 +56,10 @@
         {
           "name": "Genovese Basil",
           "description": "Classic Italian basil with big flavorful leaves. The one you want for pesto and caprese."
+        },
+        {
+          "name": "Mammolo Basil",
+          "description": "Compact Italian variety with large leaves. Great for pots, nice and bushy."
         }
       ]
     }
