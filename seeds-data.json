@@ -8,15 +8,15 @@
       "varieties": [
         {
           "name": "Amish Gold Slicer",
-          "description": "Heirloom beefsteak, golden-orange fruit, sweet mild flavor"
+          "description": "Large heirloom with gorgeous golden-orange fruit. Sweet and mild, beautiful on a plate."
         },
         {
           "name": "Moonglow",
-          "description": "Heirloom, bright orange, sweet and fruity"
+          "description": "Medium-sized heirloom, bright orange and really sweet. More fruity than your typical red tomato."
         },
         {
           "name": "Mexican Midget",
-          "description": "Tiny cherry tomato, prolific, perfect for containers"
+          "description": "Tiny cherry tomatoes, incredibly productive. Great in pots, kids love them."
         }
       ]
     },
@@ -25,7 +25,7 @@
       "varieties": [
         {
           "name": "Summer Dance Hybrid",
-          "description": "Parthenocarpic slicer, disease-resistant, productive"
+          "description": "Classic slicing cucumber, 8-9 inches. Sets fruit without pollination, very reliable."
         }
       ]
     },
@@ -34,19 +34,19 @@
       "varieties": [
         {
           "name": "Santaka",
-          "description": "Hot Japanese chili, 40,000-50,000 Scoville, excellent dried"
+          "description": "Small hot Japanese chili, very spicy. Excellent for drying and making pepper flakes."
         },
         {
           "name": "Sweet Stuff Hybrid",
-          "description": "Sweet bell pepper, no heat, great for snacking"
+          "description": "Sweet bell pepper, no heat at all. Perfect for fresh eating or grilling."
         },
         {
           "name": "Rooster Spur",
-          "description": "Hot heirloom cayenne type, 30,000-50,000 Scoville, productive"
+          "description": "Hot cayenne-style pepper, long and skinny. Spicy kick, great dried or fresh."
         },
         {
           "name": "TAM Jalapeño",
-          "description": "Mild jalapeño, 1,000-3,500 Scoville, classic flavor with less heat"
+          "description": "Mild jalapeño with all the flavor but way less heat. You can actually taste it!"
         }
       ]
     },
@@ -55,7 +55,7 @@
       "varieties": [
         {
           "name": "Genovese Basil",
-          "description": "Classic Italian basil, perfect for pesto"
+          "description": "Classic Italian basil with big flavorful leaves. The one you want for pesto and caprese."
         }
       ]
     }
