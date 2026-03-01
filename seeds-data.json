@@ -7,10 +7,6 @@
       "name": "Tomatoes",
       "varieties": [
         {
-          "name": "Summer Dance Hybrid",
-          "description": "Disease-resistant slicer, productive, good flavor"
-        },
-        {
           "name": "Amish Gold Slicer",
           "description": "Heirloom beefsteak, golden-orange fruit, sweet mild flavor"
         },
@@ -21,6 +17,15 @@
         {
           "name": "Mexican Midget",
           "description": "Tiny cherry tomato, prolific, perfect for containers"
+        }
+      ]
+    },
+    {
+      "name": "Cucumbers",
+      "varieties": [
+        {
+          "name": "Summer Dance Hybrid",
+          "description": "Parthenocarpic slicer, disease-resistant, productive"
         }
       ]
     },
